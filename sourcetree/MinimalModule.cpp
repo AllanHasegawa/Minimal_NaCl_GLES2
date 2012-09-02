@@ -1,10 +1,4 @@
 /*
- -----------------------------------------------------------------------------
- This source file is part of the Project Furai.
- For more information, go to:
- http://code.google.com/p/furai/
- -----------------------------------------------------------------------------
-
  Copyright 2012 Allan Yoshio Hasegawa
 
  Licensed under the Apache License, Version 2.0 (the "License");
